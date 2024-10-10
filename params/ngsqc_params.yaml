@@ -1,0 +1,4 @@
+
+nextflowVersion: "23.04.0"
+OutputPaths:
+  outputDir: output
